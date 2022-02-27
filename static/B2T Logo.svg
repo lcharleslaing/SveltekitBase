@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1001 1199.31">
+    <defs>
+        <style>
+            .cls-1{fill:#231f20;}
+            .cls-3{fill:#231f20;}
+            .cls-1{stroke:#231f20;stroke-miterlimit:10;}
+            .cls-2{stroke:#231f20;stroke-miterlimit:10;}
+            .cls-4{stroke:#231f20;stroke-miterlimit:10;}
+            .cls-2{fill:#fff;}
+            .cls-4{fill:#fff;}
+            .cls-3{font-size:726.55px;}
+            .cls-3,.cls-4{font-family:MyriadPro-Regular,
+            Myriad Pro;}
+            .cls-4{font-size:1088px;stroke-width:20px;}
+        </style>
+    </defs>
+    <g id="Layer_1" data-name="Layer 1">
+        <circle class="cls-1" cx="500.5" cy="568.87" r="500"/>
+    </g>
+    <g id="Layer_2" data-name="Layer 2">
+        <ellipse class="cls-2" cx="277.46" cy="568.87" rx="232.43" ry="323.22"/>
+        <ellipse class="cls-2" cx="723.54" cy="568.87" rx="232.43" ry="323.22"/>
+    </g>
+    <g id="Layer_4" data-name="Layer 4">
+        <text class="cls-3" transform="translate(88.85 810.72) scale(0.81 1)">B</text>
+        <text class="cls-3" transform="translate(576.71 815.07) scale(0.81 1)">T</text>
+    </g>
+    <g id="Layer_3" data-name="Layer 3">
+        <text class="cls-4" transform="translate(341.6 919.17) scale(0.52 1)">2</text>
+    </g>
+</svg>
